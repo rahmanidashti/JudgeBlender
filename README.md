@@ -25,8 +25,6 @@ The effective training and evaluation of retrieval systems require a substantial
 </a>
 <br />
 
-
-
 ## Baselines
 The baseline models jusgments and prompts are available at [https://llm4eval.github.io/LLM-as-a-rel/](https://llm4eval.github.io/LLM-as-a-rel/)
 
@@ -55,6 +53,11 @@ The qrels files can be found in the `./qrels/` folder. The qrels folder includes
 
 ## Systems
 Run submissions for each year are included in the `TREC-DLs-files` folder under each year of the TREC DL track folder.
+
+## Results
+<p align="center">
+  <img src="figs/results.png" width="600">
+</a>
 
 ## Cite
 
