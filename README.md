@@ -16,13 +16,13 @@ The effective training and evaluation of retrieval systems require a substantial
 ### PromptBlender
 <p align="center">
   <img src="figs/promptblender.png" width="500">
-</a>
+</p>
 <br />
 
 ### LLMBlender
 <p align="center">
   <img src="figs/llmblender.png" width="500">
-</a>
+</p>
 <br />
 
 ## Baselines
