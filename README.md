@@ -1,6 +1,8 @@
 # JudgeBlender
 JudgeBlender: Ensembling Judgments for Automatic Relevance Assessment
 
+> <font color="red">This repo is updating, more codes and data will be available soon!</font>
+
 <div align="center">
 
   [![arxiv-link](https://img.shields.io/badge/Paper-PDF-red?style=flat&logo=arXiv&logoColor=red)](https://arxiv.org/abs/2412.13268)
