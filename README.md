@@ -56,7 +56,7 @@ Run submissions for each year are included in the `TREC-DLs-files` folder under 
 ## Results
 <p align="center">
   <img src="figs/results.png" width="600">
-</a>
+</p>
 
 ## Cite
 
