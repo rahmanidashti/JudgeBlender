@@ -32,14 +32,14 @@ Run submissions for each year are included in the `TREC-DLs-files` folder under 
 
 ## Cite
 
-'''
+```
 @article{rahmani2024judgeblender,
   title={JudgeBlender: Ensembling Judgments for Automatic Relevance Assessment},
   author={Rahmani, Hossein A and Yilmaz, Emine and Craswell, Nick and Mitra, Bhaskar},
   journal={arXiv preprint arXiv:2412.13268},
   year={2024}
 }
-'''
+```
 
 ## Acknowledgments
 This research is supported by the Engineering and Physical Sciences Research Council [EP/S021566/1] and the EPSRC Fellowship titled "Task Based Information Retrieval" [EP/P024289/1].
