@@ -17,7 +17,6 @@ The effective training and evaluation of retrieval systems require a substantial
 <p align="center">
   <img src="figs/promptblender.png" width="500">
 </p>
-<br />
 
 ### LLMBlender
 <p align="center">
